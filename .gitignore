@@ -1,0 +1,18 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# Coverage
+coverage/
+
+# Editor configuration
+.vscode/
+
+# Dependency directories
+package-lock.json
+yarn.lock

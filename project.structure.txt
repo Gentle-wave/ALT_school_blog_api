@@ -1,0 +1,22 @@
+blogging-api/
+├── controllers/
+│   ├── authController.js
+│   └── blogController.js
+├── middleware/
+│   ├── authMiddleware.js
+├── models/
+│   ├── User.js
+│   └── index.js
+│   └── Blog.js
+├── routes/
+│   ├── authRoutes.js
+│   └── blogRoutes.js
+├── tests/
+│   ├── auth.test.js
+│   └── blog.test.js
+├── utils/
+│   └── logger.js
+├── .env
+├── app.js
+├── package.json
+└── README.md
