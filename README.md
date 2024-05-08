@@ -18,7 +18,7 @@ This is a RESTful API for a blogging application built using Express.js and Mong
 1. Clone the repository:
 
 ```
-git clone <repository-url>
+git clone <https://github.com/Gentle-wave/ALT_school_blog_api
 ```
 
 2. Install dependencies:
@@ -69,6 +69,6 @@ npm test
 
 ## Contributors
 
-- [Your Name](https://github.com/Gentle-wave)
+- (https://github.com/Gentle-wave)
 
 ```
